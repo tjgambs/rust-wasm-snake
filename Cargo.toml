@@ -1,0 +1,7 @@
+[package]
+name = "rust-wasm-snake"
+version = "0.1.0"
+authors = ["Tim Gamble <tjgambs@gmail.com>"]
+
+[dependencies]
+stdweb = "0.4.20"
